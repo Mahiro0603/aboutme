@@ -3,9 +3,9 @@
 Если он отвечает что доступ заблокирован значит он на тех работах
 
 Так же сделал и обновляю такие сайты как
-https://mahi.uz\n
-https://kyOresu.space\n
-https://play.kyOresu.space\n
+https://mahi.uz
+https://kyOresu.space
+https://play.kyOresu.space
 https://admin.kyOresu.space
 
 Может в скором времени буду делать что то ещё
